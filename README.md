@@ -129,6 +129,12 @@ plt.show()
 
 ---
 
+## 📊 Sample Output
+![Dashboard Preview](https://github.com/Poornima044/FUTURE_DS_03/Figure_1.png)
+
+---
+
+
 ## 💡 Key Insights
 - **Top Events:** Hackathon, Cultural Fest, AI Workshop.
 - **Positive Feedback:** Speakers, learning experience, coordination.

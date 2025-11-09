@@ -130,7 +130,7 @@ plt.show()
 ---
 
 ## 📊 Sample Output
-![Dashboard Preview](https://github.com/Poornima044/FUTURE_DS_03/Figure_1.png)
+![Dashboard Preview](https://github.com/Poornima044/FUTURE_DS_03/blob/main/Figure_1.png)
 
 ---
 

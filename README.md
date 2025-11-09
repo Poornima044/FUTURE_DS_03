@@ -151,14 +151,5 @@ plt.show()
 
 ---
 
-## 🌐 Example LinkedIn Caption
-> 🚀 **College Event Feedback Analysis – Future Interns Project 3**  
-> Analyzed student event feedback using pandas, Seaborn, and TextBlob to uncover insights on satisfaction and improvement areas.  
-> 💡 Tools: Google Colab | pandas | TextBlob | WordCloud  
-> 📊 Skills: Sentiment Analysis | EDA | Data Visualization  
-> 🔗 GitHub: [github.com/Poornima044/FUTURE_DS_03](https://github.com/Poornima044/FUTURE_DS_03)
-
----
-
 ## 🏁 Conclusion
 This project demonstrates how **data-driven insights** can improve campus event planning. By combining ratings and sentiment analysis, colleges can make informed decisions to enhance student experiences.
